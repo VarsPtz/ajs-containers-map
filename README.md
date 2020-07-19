@@ -1,3 +1,4 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/287pmek4719hqru3?svg=true)](https://ci.appveyor.com/project/VarsPtz/ajs-containers-map)
 # Домашнее задание к лекции «Контейнеры»
 
 **Важно**: каждая задача выполняется в виде отдельного проекта с собственным GitHub репозиторием.
